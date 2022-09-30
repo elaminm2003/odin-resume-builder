@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* align-items: flex-start; */
+    margin: 15px;
+    background-color: lightskyblue;
+    width: auto;
+    height: auto;
+    min-height: 10vh;
+    /* text-align: center; */
+}
+
+.container
+
+.hidden{
+    display: none;
+}
+
+label{
+    margin: 20px;
+    display: block;
+}
+
+button{
+    margin: auto 20px;
+    display: block;
+}
+
+.input{
+    margin: auto 20px;
+}
+
+input{
+    margin: 0 5px;
+}
+
+.flex-end{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
